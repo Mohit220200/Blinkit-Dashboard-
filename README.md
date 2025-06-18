@@ -68,5 +68,5 @@ This dashboard helps:
 
 ## Contact
 
-Created by [Your Name]  
-For questions or suggestions: [your-email@example.com]
+Created by Mohit Jangir  
+For questions or suggestions:mohitjangir220200@gmail.com
