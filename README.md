@@ -1,7 +1,5 @@
 # Blinkit Sales Insights Dashboard
 
-India's Last Minute App – Sales & Outlet Analysis
-
 ## Project Overview
 
 This Power BI dashboard provides a detailed analysis of sales performance, item categories, outlet types, and customer behavior for a retail grocery brand inspired by Blinkit. The visual report is built to help decision-makers monitor KPIs, compare outlet categories, and optimize operations based on item types, outlet size, and location.
